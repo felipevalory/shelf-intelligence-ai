@@ -2,7 +2,7 @@
 
 **Detecção de espaços vazios em gôndolas de varejo com visão computacional e YOLOv8**
 
-[streamlit demo](assets/results/streamlit_demo.png)
+![streamlit demo](assets/results/streamlit_demo.png)
 
 O **Shelf Intelligence AI** é um projeto de portfólio que utiliza detecção de objetos para identificar gôndolas (*shelf*) e possíveis espaços vazios (*void*) em imagens de prateleiras de lojas. O modelo foi treinado com **YOLOv8n** e disponibilizado em uma aplicação interativa desenvolvida com **Streamlit**.
 
