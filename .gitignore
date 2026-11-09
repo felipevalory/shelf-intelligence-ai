@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Training and evaluation outputs
+runs/
+
+# Dataset and model weights
+data/
+models/*.pt
+*.cache
+
+# Local experiments
+others/
+
+# Generated configurations
+configs/dataset_runtime.yaml
+
+# Operating system and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

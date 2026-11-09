@@ -1,0 +1,15 @@
+path: ../data
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['shelf', 'void']
+
+roboflow:
+  workspace: bilalnaeem-d2fox
+  project: empty-spaces-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bilalnaeem-d2fox/empty-spaces-detection/dataset/1
